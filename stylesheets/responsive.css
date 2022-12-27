@@ -1,0 +1,55 @@
+@media all and (max-width: 1920px) {
+  body, html {
+    height: 4275px;
+    width: 1920px;
+    font-size: 404px;
+    line-height: 494px;
+  }
+}
+
+@media all and (max-width: 1280px) {
+  body, html {
+    height: 66vh;
+    width: 1280px;
+    font-size: 291px;
+    line-height: 356px;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  body, html {
+    height: ;
+    width: 1024px;
+    font-size: 240px;
+    line-height: 294px;
+  }
+}
+
+@media all and (max-width: 834px) {
+  body, html {
+  height: 834px;
+  height: ;
+  font-size: 195px;
+  line-height: 238px;
+}
+
+
+@media all and (max-width: 414px) {
+  body, html {
+  width: ;
+  height: ;
+  font-size: 88px;
+  line-height: 108px;
+}
+}
+
+
+@media all and (max-width: 320px) {
+  body, html {
+  width: ;
+  height: ;
+  font-size: 64px;
+  line-height: 79px;
+}
+}
+}
