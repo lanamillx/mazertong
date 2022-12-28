@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Gropled";
+  src:url("../fonts/Gropled_Bold.otf") format("otf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Random Grotesque Standard Book";
+  src:url("../fonts/RG-StandardBook.ttf") format("ttf");
+  font-style: normal;
+  font-weight: 400;
+}
